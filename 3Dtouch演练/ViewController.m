@@ -52,9 +52,6 @@
     {
         PopViewController *peekViewController = [[PopViewController alloc] init];
         return peekViewController;
-        //        UIViewController *vc = [[UIViewController alloc]init];
-        //        vc.view.backgroundColor = [UIColor redColor];
-        return peekViewController;
     }
 }
 
